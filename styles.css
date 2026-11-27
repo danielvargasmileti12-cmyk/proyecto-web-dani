@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 body{
     background-color: bisque;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+      font-family: "Roboto", sans-serif;
+    color: blueviolet;
 }
